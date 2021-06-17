@@ -11,7 +11,7 @@ Hello! I'm a full stack developer with an interest in human-computer interaction
   - MERN stack website with heavy focus on optimizing the fetching and parsing of raw data from an API, as well as a sleek design and the convenience of saving user form input across sessions.
   - First large-scale project management effort--created with a team of 6 of varying skill levels and focus areas.
 - [Mood for You](https://github.com/misaacs21/journal_app)
-  - Next.js, Typescript, and Sass website with a focus on mobile-first styling, user authentication via JWT, and natural language processing
+  - Next.js, Typescript, and Sass website with a focus on mobile-first styling, user authentication via JWT, and natural language processing.
 
 #### Notable Private Projects
 - MERN stack application with dynamic PDF generation, plaintext -> structured JSON parsing, and custom Sass templating. 
