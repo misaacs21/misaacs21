@@ -19,13 +19,13 @@ Hello! I'm a full stack developer with an interest in human-computer interaction
 - Java BitTorrent P2P file-sharing clone with choking/unchoking based on data rates and peer interest.
 
 #### Future Plans
-- Improvements to the Roll For Init project and expansion into "multiplayer" features with web sockets
-- Custom Dockerized open-source API
+- Improvements to the Roll For Init project and expansion into "multiplayer" features with web sockets.
+- Custom Dockerized open-source API.
 
 #### Technical Skills
-- Languages: JavaScript/HTML/CSS, Java, Python, Sass, C++, C#, SQL, Bash
-- Libraries and Frameworks: React, MongoDB, Vue.js, Jest, Next.js, Nuxt.js, Node.js, Express.js, Redux
-- Tools: Git, JWT, CI/CD, Jira, GitHub Actions, Docker, Figma  <br/><br/>
+- **Languages**: JavaScript/HTML/CSS, Java, Python, Sass, C++, C#, SQL, Bash
+- **Libraries and Frameworks**: React, MongoDB, Vue.js, Jest, Next.js, Nuxt.js, Node.js, Express.js, Redux
+- **Tools**: Git, JWT, CI/CD, Jira, GitHub Actions, Docker, Figma  <br/><br/>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" alt="misaacs21's GitHub stats">
