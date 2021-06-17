@@ -6,23 +6,23 @@ Hello! I'm a full stack developer with an interest in human-computer interaction
   </a>
 </p>
 
-#### Notable Public Projects
+### Notable Public Projects
 - [Roll for Init](https://github.com/Roll-For-Init/Roll-For-Init)
   - MERN stack website with heavy focus on optimizing the fetching and parsing of raw data from an API, as well as a sleek design and the convenience of saving user form input across sessions.
   - First large-scale project management effort--created with a team of 6 of varying skill levels and focus areas.
 - [Mood for You](https://github.com/misaacs21/journal_app)
   - Next.js, Typescript, and Sass website with a focus on mobile-first styling, user authentication via JWT, and natural language processing.
 
-#### Notable Private Projects
+### Notable Private Projects
 - MERN stack application with dynamic PDF generation, plaintext -> structured JSON parsing, and custom Sass templating. 
 - Vue.js component library with Jest unit testing.
 - Java BitTorrent P2P file-sharing clone with choking/unchoking based on data rates and peer interest.
 
-#### Future Plans
+### Future Plans
 - Improvements to the Roll For Init project and expansion into "multiplayer" features with web sockets.
 - Custom Dockerized open-source API.
 
-#### Technical Skills
+### Technical Skills
 - **Languages**: JavaScript/HTML/CSS, Java, Python, Sass, C++, C#, SQL, Bash
 - **Libraries and Frameworks**: React, MongoDB, Vue.js, Jest, Next.js, Nuxt.js, Node.js, Express.js, Redux
 - **Tools**: Git, JWT, CI/CD, Jira, GitHub Actions, Docker, Figma  <br/><br/>
