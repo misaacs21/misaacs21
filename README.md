@@ -25,7 +25,8 @@ Hello! I'm a full stack developer with an interest in human-computer interaction
 ### Technical Skills
 - **Languages**: JavaScript/HTML/CSS, Java, Python, Sass, C++, C#, SQL, Bash
 - **Libraries and Frameworks**: React, MongoDB, Vue.js, Jest, Next.js, Nuxt.js, Node.js, Express.js, Redux
-- **Tools**: Git, JWT, CI/CD, Jira, GitHub Actions, Docker, Figma  <br/><br/>
+- **Tools**: Git, JWT, CI/CD, Jira, GitHub Actions, Docker, Figma  
+<br/>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" alt="misaacs21's GitHub stats">
