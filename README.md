@@ -1,4 +1,4 @@
-Hello! I'm a frontend developer with an interest in human-computer interaction and artificial intelligence. I'm learning more every day, and am currently exploring Vue.js and Docker.
+Hello! I'm a frontend developer with an interest in human-computer interaction, accessibility, and artificial intelligence. I'm learning more every day, and am currently exploring Vue.js and Docker.
 
 <p align="center">
   <a href="https://linkedin.com/in/michaela-isaacs">
