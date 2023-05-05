@@ -1,4 +1,4 @@
-Hello! I'm a frontend developer with an interest in human-computer interaction, accessibility, and artificial intelligence. I'm learning more every day, and am currently exploring Vue.js and Docker.
+Hello! I'm a frontend developer with an interest in human-computer interaction and accessibility. I'm learning more every day, and am currently dipping my toes back into fullstack development after a couple of years away.
 
 <p align="center">
   <a href="https://linkedin.com/in/michaela-isaacs">
@@ -7,6 +7,10 @@ Hello! I'm a frontend developer with an interest in human-computer interaction, 
 </p>
 
 ### Notable Public Projects
+- [Unnamed Template Engine](https://github.com/misaacs21/template-engine)
+  - Handmade templating engine to explore the underlying logic behind frontend frameworks.
+- [Personal Site](https://github.com/misaacs21/personal-site)
+  - Designed from the ground-up using Figma and developed with Astro and vanilla CSS.
 - [Roll for Init](https://github.com/Roll-For-Init/Roll-For-Init)
   - MERN stack website with heavy focus on optimizing the fetching and parsing of raw data from an API, as well as a sleek design and the convenience of saving user form input across sessions.
   - First large-scale project management effort--created with a team of 6 of varying skill levels and focus areas.
@@ -18,13 +22,9 @@ Hello! I'm a frontend developer with an interest in human-computer interaction, 
 - Vue.js component library with Jest unit testing.
 - Java BitTorrent P2P file-sharing clone with choking/unchoking based on data rates and peer interest.
 
-### Future Plans
-- Improvements to the Roll For Init project and expansion into "multiplayer" features with web sockets.
-- Custom Dockerized open-source API.
-
 ### Technical Skills
 - **Languages**: JavaScript/HTML/CSS, Java, Python, Sass, C++, C#, SQL, Bash
-- **Libraries and Frameworks**: React, MongoDB, Vue.js, Jest, Next.js, Nuxt.js, Node.js, Express.js, Redux
+- **Libraries and Frameworks**: Vue.js, React, MongoDB, Jest, Vite, Next.js, Nuxt.js, Node.js, Express.js, Redux
 - **Tools**: Git, JWT, CI/CD, Jira, GitHub Actions, Docker, Figma  
 <br/>
 
