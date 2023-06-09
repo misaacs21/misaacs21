@@ -14,6 +14,7 @@ Hello! I'm a frontend developer with an interest in human-computer interaction a
 - [Roll for Init](https://github.com/Roll-For-Init/Roll-For-Init)
   - MERN stack website with heavy focus on optimizing the fetching and parsing of raw data from an API, as well as a sleek design and the convenience of saving user form input across sessions.
   - First large-scale project management effort--created with a team of 6 of varying skill levels and focus areas.
+  - See the demo [here](https://youtu.be/EweR5s9PB1I)
 - [Mood for You](https://github.com/misaacs21/journal_app)
   - Next.js, Typescript, and Sass website with a focus on mobile-first styling, user authentication via JWT, and natural language processing.
 
